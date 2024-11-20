@@ -1,3 +1,3 @@
 ﻿# WebScraper
 ## Stack
-* C++, Curl, Catch, Javascript, SQLite
+* C++, cURL, Catch2, Javascript, Make, SQLite
